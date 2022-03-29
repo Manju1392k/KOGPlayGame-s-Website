@@ -9,3 +9,9 @@ The kogplaygame's is a website for game selling platform. This Website contain G
 https://user-images.githubusercontent.com/66934377/160538840-817a5243-8a40-43d9-a7a6-9e5bd21f70c4.mp4
 
 ---
+
+# Preview of Website Response
+
+https://user-images.githubusercontent.com/66934377/160539011-72b3c1e4-ea24-448e-a6cb-49a1aaadab45.mp4
+
+

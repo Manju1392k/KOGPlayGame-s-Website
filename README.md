@@ -12,7 +12,15 @@ https://user-images.githubusercontent.com/66934377/160538840-817a5243-8a40-43d9-
 
 # Preview of Website Response
 
+The Kogplaygame's is fully responsive design. It can render any type of Device like MobilePhone,Laptop,Desktop,Tablet etc.
+
 https://user-images.githubusercontent.com/66934377/160539011-72b3c1e4-ea24-448e-a6cb-49a1aaadab45.mp4
 
 ---
+
+# Framework 
+
+The Below Table Framework is used in this project. This Project is made with Boostrap Framework
+
+
 
